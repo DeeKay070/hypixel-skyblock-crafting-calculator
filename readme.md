@@ -39,9 +39,9 @@ Start the script by running:
 python main.py
 ```
 
+---
 
-
-🔄 How It Works
+## 🔄 How It Works
 Fetches Your UUID Automatically
 
 The script uses the Mojang API to get your UUID from your Minecraft username.
@@ -67,15 +67,18 @@ Displays the Top 5 Most Profitable Crafts
 
 Shows how much profit you make per craft and the percentage gain.
 
+---
 
-🚀 Future Features
+## 🚀 Future Features
  Auction House Profit Calculation
  SkyBlock Flipping Suggestions
  GUI Interface for Easier Use
 
-👤 Author
-GitHub: Deekay070
-Discord: daytuh
+---
+## 👤 Author
+### **GitHub: Deekay070**
+### **Discord: daytuh**
+---
 
-📜 License
+## 📜 License
 This project is open-source and licensed under the MIT License.
