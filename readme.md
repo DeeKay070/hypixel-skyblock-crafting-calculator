@@ -20,17 +20,24 @@ This Python script retrieves **player inventory data from Hypixel SkyBlock** and
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/hypixel-crafting-calculator.git
 cd hypixel-crafting-calculator
+```
 
 
 ### **2. Install Dependencies**
+```bash
 pip install -r requirements.txt
+```
 
 ### **3. Add your API key**
+```bash
 Open config.py and add your API key. This has recently changed go to developer.hypixel.net
+```
 
 ### **4. Run the Program**
+```bash
 Start the script by running:
 python main.py
+```
 
 
 
